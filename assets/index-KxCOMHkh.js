@@ -1,1 +1,0 @@
-import{j as s}from"./index-CsNjg_H9.js";import{P as e,s as r}from"./style.module-sBEBeE84.js";const i=()=>s.jsxs("div",{children:[s.jsx(e,{title:"南京大学教学智能系统"}),s.jsx("div",{className:r.content,children:s.jsx("p",{children:"欢迎使用南京大学教学智能系统。"})})]});export{i as default};
