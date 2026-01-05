@@ -7,7 +7,7 @@ import ConfirmDialog from '@/components/ConfirmDialog';
 import Dropdown from '@/components/Dropdown';
 import Model from '@/components/Model';
 import MarkdownView from '@/components/MarkdownView';
-import ToastContainer, { showToast } from '@/components/Toast';
+import ToastContainer from '@/components/Toast';
 import { downloadMarkdown, downloadDocx, exportPdfViaPrint } from '@/utils/exportFiles';
 
 type Question = {
